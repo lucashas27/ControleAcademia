@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=https://png.pngtree.com/png-vector/20191023/ourlarge/pngtree-physical-fitness-sport-gym-logo-bodybuilder-with-big-muscles-posing-isolated-png-image_1857715.jpg>
+    <img src=https://png.pngtree.com/png-vector/20191023/ourlarge/pngtree-physical-fitness-sport-gym-logo-bodybuilder-with-big-muscles-posing-isolated-png-image_1857715.jpg width="50%">
 </h1>
 
 
@@ -7,8 +7,7 @@
 
 #**EasyGym: Controle de Academia**
 
-O **EasyGym** é um sistema CRM para controle de dados de alunos e instrutores de uma academia. É possível armazenar informações como nome, planos, tipos de aula que o alu
-no está cadastrado, entre outras funcionalidades..</h3>
+O **EasyGym** é um sistema CRM para controle de dados de alunos e instrutores de uma academia. É possível armazenar informações como nome, planos, tipos de aula que o aluno está cadastrado, entre outras funcionalidades..</h3>
 
 
 
